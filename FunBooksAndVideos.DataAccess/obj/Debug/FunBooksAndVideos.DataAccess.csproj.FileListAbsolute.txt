@@ -1,0 +1,5 @@
+C:\temp\Demo\FunBooksAndVideos.DataAccess\bin\Debug\FunBooksAndVideos.DataAccess.dll
+C:\temp\Demo\FunBooksAndVideos.DataAccess\bin\Debug\FunBooksAndVideos.DataAccess.pdb
+C:\temp\Demo\FunBooksAndVideos.DataAccess\obj\Debug\FunBooksAndVideos.DataAccess.dll
+C:\temp\Demo\FunBooksAndVideos.DataAccess\obj\Debug\FunBooksAndVideos.DataAccess.pdb
+C:\temp\Demo\FunBooksAndVideos.DataAccess\obj\Debug\FunBooksAndVideos.DataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\temp\Demo\Demo\bin\Debug\Demo.dll
+C:\temp\Demo\Demo\bin\Debug\Demo.pdb
+C:\temp\Demo\Demo\obj\Debug\Demo.dll
+C:\temp\Demo\Demo\obj\Debug\Demo.pdb
+C:\temp\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\temp\Demo\Demo\bin\Debug\System.Web.Http.dll
+C:\temp\Demo\Demo\bin\Debug\System.Net.Http.Formatting.dll
+C:\temp\Demo\Demo\bin\Debug\System.Web.Http.xml
+C:\temp\Demo\Demo\bin\Debug\System.Net.Http.Formatting.xml
